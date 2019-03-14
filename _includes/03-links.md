@@ -1,1 +1,1 @@
-[Dan Github Profile] (https://github.com/DanDuPreez)
+[Dan Github Profile](https://github.com/DanDuPreez)
